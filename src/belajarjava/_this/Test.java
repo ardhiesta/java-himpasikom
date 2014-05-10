@@ -8,7 +8,7 @@ package belajarjava._this;
  *
  * @author linuxluv
  */
-public class Main {
+public class Test {
     public static void main(String[] args){
         Manusia1 manusia1 = new Manusia1();
         manusia1.ubahData("Eko", "Subang");

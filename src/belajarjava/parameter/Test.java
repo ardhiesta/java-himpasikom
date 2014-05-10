@@ -8,7 +8,7 @@ package belajarjava.parameter;
  *
  * @author linuxluv
  */
-public class Main {
+public class Test {
     public static void main(String[] args){
         Manusia1 manusia = new Manusia1();
         manusia.ubahNama("Eko Kurniawan Khannedy");
