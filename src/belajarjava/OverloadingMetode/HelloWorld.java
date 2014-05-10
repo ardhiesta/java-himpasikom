@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package belajarjava.dasar;
+package belajarjava.OverloadingMetode;
 
 /**
  *
@@ -10,6 +10,8 @@ package belajarjava.dasar;
  */
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello World");  
+        Manusia manusia = new Manusia();
+        manusia.ubah("Eko Salah");
+        manusia.ubah("Eko Kurnaiwan", "Subang");
     }
 }
