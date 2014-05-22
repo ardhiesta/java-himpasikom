@@ -11,6 +11,6 @@ package belajarjava.OverloadingKonstruktor;
 public class HelloWorld {
     public static void main(String[] args) {
         Manusia manusia1 = new Manusia();
-        Manusia manusia2 = new Manusia("Eko Kurniawan Khannedy");
+        Manusia manusia2 = new Manusia("Setiawan Jullev");
     }
 }

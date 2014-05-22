@@ -11,14 +11,14 @@ package belajarjava.parameter;
 public class Test {
     public static void main(String[] args){
         Manusia1 manusia = new Manusia1();
-        manusia.ubahNama("Eko Kurniawan Khannedy");
+        manusia.ubahNama("Setiawan Jullev");
         String nama = manusia.ambilNama();
         
         //print nama
         System.out.println(nama);
         
         Manusia2 manusia2 = new Manusia2();
-        manusia2.ubahData("Eko", "Subang");
+        manusia2.ubahData("Setiawan Jullev", "Condong Catur");
         
         //print nama
         System.out.println(manusia2.ambilNama());

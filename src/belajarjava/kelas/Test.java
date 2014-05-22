@@ -13,7 +13,7 @@ public class Test {
         // membuat objek manusia
         Manusia manusia = new Manusia();
         // mengubah nama objek manusia
-        manusia.nama = "Eko Kurniawan Khannedy";
+        manusia.nama = "Setiawan Jullev";
         
         //print nama
         System.out.println(manusia.nama);

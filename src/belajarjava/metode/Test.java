@@ -11,7 +11,7 @@ package belajarjava.metode;
 public class Test {
     public static void main(String[] args){
         Manusia manusia = new Manusia();
-        manusia.nama = "Eko Kurniawan Khannedy";
+        manusia.nama = "Setiawan Jullev";
         
         // mengambil nilai dari fungsi
         String nama = manusia.ambilNama();

@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package belajarjava.konstruktor;
+package belajarjava.operatorAritmatika;
 
 /**
  *
@@ -10,7 +10,9 @@ package belajarjava.konstruktor;
  */
 public class Test {
     public static void main(String[] args){
-        Manusia1 manusia1 = new Manusia1();
-        Manusia2 manusia2 = new Manusia2( "Setiawan Jullev" );
+        int a = 10;
+        int b = 3;
+        int c = a / b;
+        System.out.println(c);
     }
 }

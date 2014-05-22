@@ -11,12 +11,12 @@ package belajarjava._this;
 public class Test {
     public static void main(String[] args){
         Manusia1 manusia1 = new Manusia1();
-        manusia1.ubahData("Eko", "Subang");
+        manusia1.ubahData("Setiawan Jullev", "Condong Catur");
         System.out.println(manusia1.nama);
         System.out.println(manusia1.alamat);
         
         Manusia2 manusia2 = new Manusia2();
-        manusia2.ubahData("Eko", "Subang");
+        manusia2.ubahData("Setiawan Jullev", "Condong Catur");
         System.out.println(manusia2.nama);
         System.out.println(manusia2.alamat);
     }

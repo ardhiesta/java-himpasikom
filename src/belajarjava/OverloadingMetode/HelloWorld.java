@@ -11,7 +11,7 @@ package belajarjava.OverloadingMetode;
 public class HelloWorld {
     public static void main(String[] args) {
         Manusia manusia = new Manusia();
-        manusia.ubah("Eko Salah");
-        manusia.ubah("Eko Kurnaiwan", "Subang");
+        manusia.ubah("Eri Setiawan Jullev");
+        manusia.ubah("Setiawan Jullev", "Condong Catur");
     }
 }
