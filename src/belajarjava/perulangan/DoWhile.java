@@ -14,6 +14,6 @@ public class DoWhile {
         do{
             System.out.println(jumlah);
             jumlah++; // naikkan jumlah
-        }while(jumlah <= 10);
+        }while(jumlah <= 90);
     }
 }
