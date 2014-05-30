@@ -20,6 +20,8 @@ public class ArrayMultidimensi {
             {"toby", "gray"},
             {"fido", "black"}};
         
-        System.out.print(dogs[0][0]);
+        System.out.println(dogs[0][1]);
+        System.out.println(dogs[1][1]);
+        System.out.println(dogs[3][1]);
     }
 }

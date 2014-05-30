@@ -21,5 +21,11 @@ public class ManipulasiDataArray {
         System.out.println(a[2]);
         System.out.println(a[3]);
         System.out.println(a[4]);
+        
+        a[0] = 123;
+        System.out.println(a[0]);
+        
+        System.out.println("panjang array: " + a.length);
+        
     }
 }

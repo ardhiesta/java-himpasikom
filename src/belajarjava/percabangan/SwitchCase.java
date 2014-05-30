@@ -17,6 +17,8 @@ public class SwitchCase {
             case 3:
             case 4:
             case 5:
+                System.out.println("Hari ke-5");
+                break;
             case 6:
                 System.out.println("Bukan Hari Libur");
                 break;
