@@ -12,7 +12,7 @@ public class HelloWorld {
     public static void main( String[] args) {
         Manusia1 manusia1 = new Manusia1();
         manusia1.ubahData("Setiawan Jullev", "Condong Catur");
-        System.out.println( manusia1.nama );
+        //System.out.println( manusia1.nama );
         System.out.println(manusia1.alamat);
         
         Manusia2 manusia2 = new Manusia2();
